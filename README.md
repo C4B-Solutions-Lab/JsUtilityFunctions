@@ -1,11 +1,18 @@
-# Dabrowski Software Development [ JavaScript ] 
-# JsUtilityFunctions (v0.0.6)
-
-- NEW:
+<img src="https://github.com/Dabrowski-Software-Development/JsUtilityFunctions/blob/master/github_json2sql.png"></img>
+# [ JavaScript ]
+# JsUtilityFunctions &nbsp;&nbsp;&nbsp;:zero:.:zero:.:nine:&nbsp;[&nbsp;:new:&nbsp;]
+#
+#
+# Availability&nbsp;&nbsp;&nbsp;:heavy_check_mark::unlock: [ released ]
+## Download with right click [&nbsp;[ :floppy_disk: ](https://github.com/Dabrowski-Software-Development/JsUtilityFunctions/blob/master/js-utilities-0.0.9.js)&nbsp;]&nbsp;:arrow_heading_down:
+#
+## Details:
+ - examplary usage can be downloaded with current release of https://dabrowski-software-development.github.io/,<br /> which uses it internally.
+ - this library is independant of any other libraries
+ 
+#### NEW:
  - fillChildContainersUnderGivenParentContainer
    - blog's editor helper function
- - <strong>UPLOADED 2017-02-21 20:40:00 GMT +01:00 [FEATURE]</strong>
- - 
 - OLD:
 
  - calculateNumberOfDaysForCurrentMonth(currentMonth, currentYear)
@@ -22,3 +29,5 @@
  - countNumberOfChars(charToBeSearched): returns the total number of charToBeSearched chars for the given string
 
  - calculateDateDifference(startDate, endDate) - returns date difference as a literal string, e.g.  3 years 6 months
+
+ ### <strong>UPLOADED 2017-02-21 20:40:00 GMT +01:00 [FEATURE]</strong>
