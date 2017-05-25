@@ -30,4 +30,4 @@
 
  - calculateDateDifference(startDate, endDate) - returns date difference as a literal string, e.g.  3 years 6 months
 
- ### <strong>UPLOADED 2017-02-21 20:40:00 GMT +01:00 [FEATURE]</strong>
+ ### <strong>UPLOADED 2017-05-25 15:17:00 GMT +01:00 [FEATURE]</strong>
