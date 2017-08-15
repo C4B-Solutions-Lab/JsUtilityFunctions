@@ -669,9 +669,6 @@
     function setDestinationUrlNewShadowToken_Internal() {
         _shadowToken = createDestinationUrlToken_Internal();
         sessionStorage.setItem(_shadowTokenName, _shadowToken);
-/// debug
-console.log(_shadowToken);
-/// end of debug
     }    
 
     function getDestinationUrlToken_Internal() {
