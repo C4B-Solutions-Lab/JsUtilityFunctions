@@ -1,6 +1,6 @@
 <img src="https://github.com/Dabrowski-Software-Development/JsUtilityFunctions/blob/master/github_json2sql.png"></img>
 # [ JavaScript ]
-# JsUtilityFunctions &nbsp;&nbsp;&nbsp;:one:.:zero:.:zero:&nbsp;[&nbsp;:new:&nbsp;]
+# JsUtilityFunctions &nbsp;&nbsp;&nbsp;:one:.:zero:.:one:&nbsp;[&nbsp;:new:&nbsp;]
 #
 #
 # Availability&nbsp;&nbsp;&nbsp;:heavy_check_mark::unlock: [ released ]
@@ -18,4 +18,4 @@
 
  - Please refer to the file itself
 
- ### <strong>UPLOADED 2017-08-26 14:12:00 GMT +01:00</strong>
+ ### <strong>UPLOADED 2017-08-26 14:13:00 GMT +01:00</strong>
