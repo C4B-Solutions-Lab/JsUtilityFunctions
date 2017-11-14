@@ -13,9 +13,6 @@
 #### NEW:
  - go to current release of https://software-development-of-better-tomorrow.org
 #### OLD:
- - SALM utility functions
- - fillChildContainersUnderGivenParentContainer_2
-
  - Please refer to the file itself
 
- ### <strong>UPLOADED 2017-11-14 11:59:00 GMT +01:00</strong>
+ ### <strong>UPLOADED 2017-11-14 12:01:00 GMT +01:00</strong>
