@@ -1,4 +1,3 @@
-<img src="https://github.com/Dabrowski-Software-Development/JsUtilityFunctions/blob/master/github_json2sql.png"></img>
 # [ JavaScript ]
 # JsUtilityFunctions &nbsp;&nbsp;&nbsp;:one:.:zero:.:three:&nbsp;[&nbsp;:new:&nbsp;]
 #
@@ -7,7 +6,6 @@
 ## Download with (Google Chrome, Opera, Safari)'s right click [&nbsp;[ :floppy_disk: ](https://github.com/Dabrowski-Software-Development/JsUtilityFunctions/blob/master/js-utilities-1.0.3.js)&nbsp;]&nbsp;:arrow_heading_down:
 #
 ## Details:
- - examplary usage can be downloaded with current release of https://software-development-of-better-tomorrow.org,<br /> which uses it internally.
  - this library is independant of any other libraries
  
 #### NEW:
