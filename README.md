@@ -9,7 +9,7 @@
  - this library is independant of any other libraries
  
 #### NEW:
- - go to current release of https://software-development-of-better-tomorrow.org
+ - go to ...
 #### OLD:
  - Please refer to the file itself
 
